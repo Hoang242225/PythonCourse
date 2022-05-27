@@ -25,7 +25,7 @@ print("Do dai cua chuoi:",a)
 print("5 ki tu dau tien cua string:", string[:5])
 print("10 ki tu cuoi cua string la:", string[-10:])
 print("Thay ki tu 'Python' thanh 'DUT':",string.replace("Python","DUT"))
-print("'best' nam o vi tri thu:",string.find("best"))
+print("Chu 'best' o vi tri:",string.find("best"))
 print("Chuoi nay duoc in hoa het dung hay sai? ", string.isupper())
 print("Tach chuoi thanh ki tu:")
 
