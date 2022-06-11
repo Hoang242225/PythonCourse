@@ -1,0 +1,5 @@
+Str = input("Nhap vao 1 chuoi:")
+Lst = list(Str.split(" "))
+Lst = set(Lst)
+New = sorted(Lst)
+print (f"Output: {New}")
